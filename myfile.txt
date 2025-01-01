@@ -1,0 +1,4 @@
+We are the students of AIADS branch.
+This is Python lab.
+In this lab we learn python programming.
+and also run the programs to built our concepts
